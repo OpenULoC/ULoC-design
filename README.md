@@ -55,3 +55,7 @@ They have been chosen over alternatives so as to avoid vendor lock or increasing
 * [KiCAD](https://gitlab.com/kicad)
 * [fluidics by aerkiaga](https://github.com/aerkiaga/fluidics)
 * [OpenFOAM](https://github.com/OpenFOAM)
+* [Rust](https://www.rust-lang.org/)
+
+## Design
+See [design.md](design.md).
