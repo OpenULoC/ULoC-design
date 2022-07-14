@@ -16,7 +16,7 @@ physically stacked over one another.
 The first of these will contain an MCU and enough electronics to
 control the machine and interface with a client machine.
 
-The second floor will host mechanical actuators and transmission mechanisms.
+The second floor will host [mechanical](mechanical/README.md) actuators and transmission mechanisms.
 These should have a focus on affordability.
 
 The third floor will contain syringe pumps, valves and other "clean" hydraulic components.
