@@ -3,6 +3,8 @@
 ## Design 1
 ![Design 1 in OpenSCAD](res/mux1.png)
 
+[Files](mux1)
+
 A spiral staircase design.
 Both motors are mounted inside the structure,
 which rotates and moves to choose an axis.
