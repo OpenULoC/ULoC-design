@@ -25,3 +25,5 @@ that amounts to four motors in total, the exact number present in typical consum
 
 Ideally, the multiplexer itself should only consist of inexpensive, widely available
 hardware store parts and 3D printed elements.
+
+See [mux](mux.md) for designs.
