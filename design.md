@@ -19,7 +19,8 @@ control the machine and interface with a client machine.
 The second floor will host [mechanical](mechanical/README.md) actuators and transmission mechanisms.
 These should have a focus on affordability.
 
-The third floor will contain syringe pumps, valves and other "clean" hydraulic components.
+The third floor will contain syringe pumps, valves and other "clean"
+[hydraulic](hydraulic/README.md) components.
 These will receive input from all mechanical transmission lines arriving from below.
 General inputs and outputs will be located outside the stack.
 
