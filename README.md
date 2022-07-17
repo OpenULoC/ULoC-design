@@ -1,5 +1,5 @@
 # ULoC: design
-Brainstorming and high-level design towards the ULoC.
+Brainstorming and high-level [design](design.md) towards the ULoC.
 
 ## The ULoC
 The **Universal Lab-on-a-Chip** (**ULoC**) is a hypotetical device capable of carrying out

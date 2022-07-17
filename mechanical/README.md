@@ -27,3 +27,14 @@ Ideally, the multiplexer itself should only consist of inexpensive, widely avail
 hardware store parts and 3D printed elements.
 
 See [mux](mux.md) for designs.
+
+## Transmission lines
+There are many ways to transmit a rotating motion:
+
+* Belts: low durability and accuracy; flexible but now always simple to implement.
+* CV joints: good characteristics, but expensive.
+* Bevel gears: complex but accurate, and cheap if 3D printed.
+
+A nice solution is to use threaded rods and bevel gears at right angles.
+
+See [elbow](elbow.md) for designs.
