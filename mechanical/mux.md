@@ -18,4 +18,17 @@ Drawbacks:
 * Complex design.
 
 ## Design 2
-Work in progress, should be simpler.
+![Design 2 in OpenSCAD](res/mux2.png)
+
+[Files](mux2)
+
+A much simpler design.
+Motors are fixed, and mounted underside the mechanism.
+NEMA17 motors of any length can be used.
+Makes use of adhesive to fix bearings in place.
+
+Drawbacks:
+* Structure may be unstable.
+* Requires extra pieces for support, which depend on motor length.
+* Fixed number of output axes: 6.
+* To select a new axis, the input shaft must also be rotated in tandem.
